@@ -2,7 +2,7 @@ program Markdown_fuzz;
 
 uses
   Vcl.Forms,
-  main in 'main.pas' {MainForm};
+  main in 'F:\TestFiles\Markdown_fuzz\main.pas' {MainForm};
 
 {$R *.res}
 
