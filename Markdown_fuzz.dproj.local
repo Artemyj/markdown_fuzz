@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.231,C:\Users\melny\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\Markdown_fuzz\Unit1.pas</Transaction>
     <Transaction>1899-12-30 00:00:00.000.657,=C:\Users\melny\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.684,F:\Markdown_fuzz\Project1.dproj=C:\Users\melny\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>1899-12-30 00:00:00.000.206,=C:\Users\melny\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.231,F:\Markdown_fuzz\Unit1.dfm=C:\Users\melny\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.231,F:\Markdown_fuzz\Unit1.pas=C:\Users\melny\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2016-04-25 18:15:24.021,C:\Users\root\Documents\GitHub\markdown_fuzz\Markdown_fuzz.dproj=F:\TestFiles\Markdown_fuzz\Project1.dproj</Transaction>
-    <Transaction>2016-04-25 18:15:36.173,F:\TestFiles\Markdown_fuzz\main.pas=F:\TestFiles\Markdown_fuzz\Unit1.pas</Transaction>
-    <Transaction>2016-04-25 18:15:36.173,F:\TestFiles\Markdown_fuzz\main.dfm=F:\TestFiles\Markdown_fuzz\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.231,C:\Users\melny\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\Markdown_fuzz\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.684,C:\Users\melny\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Markdown_fuzz\Project1.dproj</Transaction>
+    <Transaction>2016-04-25 18:15:24.000.021,F:\TestFiles\Markdown_fuzz\Project1.dproj=C:\Users\root\Documents\GitHub\markdown_fuzz\Markdown_fuzz.dproj</Transaction>
+    <Transaction>2016-04-25 18:15:36.000.173,F:\TestFiles\Markdown_fuzz\Unit1.pas=F:\TestFiles\Markdown_fuzz\main.pas</Transaction>
+    <Transaction>2016-04-25 18:15:36.000.173,F:\TestFiles\Markdown_fuzz\Unit1.dfm=F:\TestFiles\Markdown_fuzz\main.dfm</Transaction>
   </Transactions>
 </BorlandProject>
