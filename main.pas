@@ -92,7 +92,7 @@ begin
     ShowMessage('Syntax file doesnt exist!');
     exit
   end;
-  if directoryexists(CountFiles.Text) then
+  if not DirectoryExists(Output_Folder.Text,true) then
   begin
     ShowMessage('Directory for file creation doesnt exist!');
     exit

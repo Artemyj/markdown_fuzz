@@ -66,7 +66,7 @@ object MainForm: TMainForm
     Left = 479
     Top = 31
     Width = 301
-    Height = 21
+    Height = 25
     Caption = 'Choose folder in which fuzzed file will be saved'
     Enabled = False
     TabOrder = 2
